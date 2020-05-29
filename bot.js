@@ -91,7 +91,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame ,hhhhhh nadi hachi, Farm Credit By killua, HHJKLQDFHJOAHZFJKQSF NQJKSHFKJ **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -105,7 +105,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , qsdgdgfdgeaerazr , Farm Credit By killua, ez Farm -zeaf dgdfhsqgz  hxddf<dq sdf **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -119,7 +119,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame ,qsd dsqgdgZE DS , FAAAAAAAAAAAAAAGGGGGGGGGGGGGGGGGGGGJJJJJJJJOQZDOODKJ **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -133,7 +133,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , KJLSGJHKLSDGHMSD HSDJMLKFDSGHM H%QHSDGKLS **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
