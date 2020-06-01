@@ -1,4 +1,5 @@
 ﻿const Discord = require("discord.js");
+const myid = ['523864827509342231']
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
@@ -255,6 +256,176 @@ if (message.content === '$spam') {
           
         }
       }
+});
+
+client6.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client7.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client8.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client9.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client10.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client11.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Credit Spam , Frame , Credit By Killua , Farm Credit By killua, ez Farm - dix vitasse tjm3 credits 7ta t3ya **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client12.on('message', message => {
+if (message.content === '$spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 9000; x++) {
+        message.channel.send(`**Spam ghaya a7san 7aja hhhhhh maymknch hh **[ " ${x} " ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+client.on('message', message => {
+    if(message.content === '$rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client2.on('message', message => {
+    if(message.content === '$rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client3.on('message', message => {
+    if(message.content === '$rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client4.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client5.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client6.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client7.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client8.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client9.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client10.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client11.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
+});
+
+client12.on('message', message => {
+    if(message.content === '!rep'){
+        message.channel.send("#rep "+"<@" + myid + ">")
+    }
 });
 
 
