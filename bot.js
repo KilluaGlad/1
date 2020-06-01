@@ -4,6 +4,14 @@ const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
+const client6 = new Discord.Client();
+const client7 = new Discord.Client();
+const client8 = new Discord.Client();
+const client9 = new Discord.Client();
+const client10 = new Discord.Client();
+const client11 = new Discord.Client();
+const client12 = new Discord.Client();
+
 
 client.on('ready', () => {
    console.log(`----------------`);
@@ -86,6 +94,99 @@ message.channel.send('#credits')
   }
 });
 
+client6.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client7.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client8.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client9.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client10.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client11.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+client12.on('message', message => {
+  if(message.content === '$d'){
+ message.channel.send('#daily')
+  }
+  if(message.content === '$c'){
+ message.channel.send('#credits')
+  }
+  if(message.content.startsWith("$s")) {
+    var text = message.content.split(' ').slice(1).join(' ');
+     message.channel.send(text);
+  }
+});
+
+
+
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === '$spam') {
       let count = 0;
@@ -163,3 +264,11 @@ client2.login(process.env.TOKEN2);// لا تغير فيها شيء
 client3.login(process.env.TOKEN3);
 client4.login(process.env.TOKEN4);
 client5.login(process.env.TOKEN5);
+client6.login(process.env.TOKEN6);
+client7.login(process.env.TOKEN7);
+client8.login(process.env.TOKEN8);
+client9.login(process.env.TOKEN9);
+client10.login(process.env.TOKEN10);
+client11.login(process.env.TOKEN11);
+client12.login(process.env.TOKEN12);
+
